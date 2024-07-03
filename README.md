@@ -14,7 +14,7 @@ Before you begin, ensure you have met the following requirements:
 - You have Python 3.x installed.
 - You have `pip` installed.
 - `beautifulsoup` python package
-- `requests python` package
+- `requests` python package
 
 ## Contributing
 Contributions are welcome! Please create a new branch for each feature or bug fix and create a pull request to merge your changes into the main branch.
