@@ -1,5 +1,5 @@
 # Movie Ratings Predictor
-This is a simple GUI-based application built with Python's Tkinter library that allows users to search for movies on IMDb, display movie details such as the director, top cast members, and predict the movie's average rating based on the director's previous work.
+This is a simple GUI-based application built with Python's Tkinter library that allows users to search for upcoming movies on IMDb, display movie details such as the director, top cast members, and predict the movie's average rating based on the director's previous work.
 
 ## Features
 
